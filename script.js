@@ -1,5 +1,5 @@
-a = 13;
+const a = 13;
+const b = 13;
+const c = "hamza";
 
-let b = 13;
-
-let c = "ham"
+// TODO: use these variables in logic later
