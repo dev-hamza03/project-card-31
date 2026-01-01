@@ -6,4 +6,10 @@ const c = "hamza";
 const gh = "wkdwd"
 // TODO: use these variables in logic later
 
-console.log(gh)
+console.log(gh);
+
+const bton = 123;
+
+bton.push(19);
+
+console.log(bton);
