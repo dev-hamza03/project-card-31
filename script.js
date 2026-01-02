@@ -13,3 +13,10 @@ const bton = 123;
 bton.push(19);
 
 console.log(bton);
+
+
+const arr = [10, 20, 30, 40, 50];
+
+arr.splice(0,2);
+
+console.log(arr)
