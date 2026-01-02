@@ -20,3 +20,11 @@ const arr = [10, 20, 30, 40, 50];
 arr.splice(0,2);
 
 console.log(arr)
+
+let obj = {
+    id:1,
+    name: "harsh",
+    role: "developer"
+}
+
+console.log(obj);
