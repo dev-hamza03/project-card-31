@@ -17,14 +17,21 @@ console.log(bton);
 
 const arr = [10, 20, 30, 40, 50];
 
-arr.splice(0,2);
+arr.splice(0, 2);
 
 console.log(arr)
 
 let obj = {
-    id:1,
+    id: 1,
     name: "harsh",
     role: "developer"
 }
 
 console.log(obj);
+
+
+function add(a, b) {
+    console.log(a + b)
+}
+
+add(10, 20);
