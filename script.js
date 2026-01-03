@@ -39,3 +39,6 @@ add(10, 20);
 let cb = 868;
 
 console.log(cb)
+
+
+let okb = 289;
