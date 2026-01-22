@@ -49,3 +49,10 @@ let bjqh = 642
 console.log(bjqh);
 
 console.log(19);
+
+
+function addtwoNum(a,b) {
+      console.log(a + b);
+}
+
+addtwoNum(2.9);
