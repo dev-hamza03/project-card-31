@@ -50,3 +50,5 @@ let add = 2873;
 
 
 const sat = "hello";
+
+const dd = 73;
