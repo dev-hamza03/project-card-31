@@ -40,5 +40,13 @@ let cb = 868;
 
 console.log(cb)
 
+<<<<<<< HEAD
 
 let okb = 289;
+=======
+let add = 2873;
+>>>>>>> 4301beb (Backdated commit for Jan 23)
+
+
+
+const sat = "hello";
