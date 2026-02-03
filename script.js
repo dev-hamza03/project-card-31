@@ -45,3 +45,5 @@ let add = 2873;
 let db = 12;
 
 let bjqh = 642
+
+console.log(bjqh)
