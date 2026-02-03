@@ -41,3 +41,5 @@ let cb = 868;
 console.log(cb)
 
 let add = 2873;
+
+let db = 12;
