@@ -43,3 +43,5 @@ console.log(cb)
 let add = 2873;
 
 let db = 12;
+
+let bjqh = 642
