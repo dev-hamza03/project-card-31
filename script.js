@@ -51,8 +51,13 @@ console.log(bjqh);
 console.log(19);
 
 
-function addtwoNum(a,b) {
-      console.log(a + b);
+function addtwoNum(a, b) {
+    console.log(a + b);
 }
 
-addtwoNum(2.9);
+subtwoNum(2.9);
+function addtwoNum(a, b) {
+    console.log(a + b);
+}
+
+subtwoNum(2.9);
