@@ -46,4 +46,6 @@ let db = 12;
 
 let bjqh = 642
 
-console.log(bjqh)
+console.log(bjqh);
+
+console.log(19);
