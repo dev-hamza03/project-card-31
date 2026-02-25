@@ -10,8 +10,6 @@ console.log(gh);
 
 const bton = 123;
 
-bton.push(19);
-
 console.log(bton);
 
 
@@ -30,11 +28,11 @@ let obj = {
 console.log(obj);
 
 
-function add(a, b) {
-    console.log(a + b)
-}
+// function add(a, b) {
+//     console.log(a + b)
+// }
 
-add(10, 20);
+// add(10, 20);
 
 let cb = 868;
 
@@ -55,10 +53,10 @@ function addtwoNum(a, b) {
     console.log(a + b);
 }
 
-subtwoNum(2.9);
+addtwoNum(2.9);
 
-function addtwoNum(a, b) {
-    console.log(a + b);
+function subtwoNum(a, b) {
+    console.log(a - b);
 }
 
 subtwoNum(2.9);
@@ -68,3 +66,6 @@ for (let i = 1; i < 10; i++) {
 }
 
 const kadj = 12
+
+
+let = 12 
