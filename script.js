@@ -79,11 +79,13 @@ let randomNum = Math.floor(Math.random(20) * 10);
 
 console.log(randomNum);
 
+console.log("hello " + 28)
+
 
 let findArr = [10, 20, 30, 50];
 
 let final = findArr.find((val) => {
-   return val > 20
+    return val > 20
 });
 
 console.log(final)
@@ -94,19 +96,21 @@ findArr.map((val) => {
 
 
 const userObj = {
-    name:"harsh",
-    age:19
+    name: "harsh",
+    age: 19
 }
 
 userObj.name = "ankit";
 
 console.log(userObj)
 
-const userObj2 = {...userObj};
+const userObj2 = { ...userObj };
 
 
 userObj2.age = 30;
 
 console.log(userObj2);
+
+
 
 
