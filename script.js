@@ -68,9 +68,13 @@ for (let i = 1; i < 10; i++) {
 const kadj = 12
 
 
-let arr1 = [12,26,383,93,93];
+let arr1 = [12, 26, 383, 93, 93];
 
 const largest = Math.max(...arr1);
 
 console.log(largest)
 
+
+let randomNum = Math.floor(Math.random(20) * 10);
+
+console.log(randomNum)
