@@ -77,4 +77,14 @@ console.log(largest)
 
 let randomNum = Math.floor(Math.random(20) * 10);
 
-console.log(randomNum)
+console.log(randomNum);
+
+
+let findArr = [10, 20, 30, 50];
+
+let final = findArr.find((val) => {
+   return val > 20
+});
+
+console.log(final)
+
