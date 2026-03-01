@@ -88,3 +88,7 @@ let final = findArr.find((val) => {
 
 console.log(final)
 
+findArr.map((val) => {
+    return console.log(val * 10)
+})
+
