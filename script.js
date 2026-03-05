@@ -104,5 +104,9 @@ console.log(userObj)
 
 const userObj2 = {...userObj};
 
+
+userObj2.age = 30;
+
 console.log(userObj2);
+
 
