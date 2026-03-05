@@ -102,3 +102,7 @@ userObj.name = "ankit";
 
 console.log(userObj)
 
+const userObj2 = {...userObj};
+
+console.log(userObj2);
+
