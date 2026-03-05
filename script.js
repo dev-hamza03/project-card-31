@@ -92,3 +92,13 @@ findArr.map((val) => {
     return console.log(val * 10)
 })
 
+
+const userObj = {
+    name:"harsh",
+    age:19
+}
+
+userObj.name = "ankit";
+
+console.log(userObj)
+
