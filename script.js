@@ -125,3 +125,9 @@ function findLargest(arr) {
 console.log(findLargest([5, 2, 9, 1, 7])); // 9
 
 
+function isPalindrome(str) {
+  const reversed = str.split("").reverse().join("");
+  return str === reversed;
+}
+
+console.log(isPalindrome("madam")); // true
