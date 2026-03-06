@@ -118,6 +118,10 @@ function reverseString(str) {
 
 console.log(reverseString("hello")); // "olleh"
 
+function findLargest(arr) {
+  return Math.max(...arr);
+}
 
+console.log(findLargest([5, 2, 9, 1, 7])); // 9
 
 
