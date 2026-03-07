@@ -137,3 +137,19 @@ function sumArray(arr) {
 }
 
 console.log(sumArray([1, 2, 3, 4])); // 10
+
+
+function countVowels(str) {
+  let count = 0;
+  const vowels = "aeiou";
+
+  for (let char of str.toLowerCase()) {
+    if (vowels.includes(char)) {
+      count++;
+    }
+  }
+
+  return count;
+}
+
+console.log(countVowels("javascript")); // 3
